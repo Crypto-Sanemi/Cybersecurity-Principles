@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Principles
+# 🛡️ Cybersecurity Principles Made Simple
 
 > In order to protect yourself and those you love, **believe you're a target.**  Those who do act differently than people who don't understand the threats.
 
