@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Principles Made Simple
+ # 🛡️ Cybersecurity Principles Made Simple
 
 > In order to protect yourself and those you love, **believe you're a target.**  Those who do act differently than people who don't understand the threats.
 
@@ -71,7 +71,7 @@ The following principles and tips can help keep you and your loved ones safe fro
 ## ⚠️ Common Cybersecurity Mistakes
 
 Some of the most common mistakes make hacking easier than it should be.  
-Our best weapon is **knowledge** — understanding and avoiding these habits.
+Our best weapon is **knowledge** understanding and avoiding these habits.
 
 - Thinking *"this can’t happen to me"*
 - Using weak or reused passwords
@@ -85,7 +85,7 @@ Our best weapon is **knowledge** — understanding and avoiding these habits.
 
 ### 🧠 Final Thought
 
-Cybersecurity isn’t just about technology — it’s about **behavior**.  
+Cybersecurity isn’t just about technology, it’s about **behavior**.  
 Small actions, done consistently, make the biggest difference in staying safe online.
 
 ---
